@@ -1,0 +1,14 @@
+.requirements {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20px;
+  background-color: black;
+  color: white;
+
+}
+
+.agreements {
+  margin-left: 400px;
+}
